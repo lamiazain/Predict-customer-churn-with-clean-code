@@ -1,0 +1,14 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Dataframe contains information and of size (10127, 22)
+root - INFO - Dataframe has a column Chrun and of type int64
+root - INFO - Value counts plot exists at data\marital_status_val_count.png and not empty
+root - INFO - SUCCESS: Column Gender_Churn exists in the encoded dataframe
+root - INFO - SUCCESS: Column Education_Level_Churn exists in the encoded dataframe
+root - INFO - SUCCESS: Column Marital_Status_Churn exists in the encoded dataframe
+root - INFO - SUCCESS: Column Income_Category_Churn exists in the encoded dataframe
+root - INFO - SUCCESS: Column Card_Category_Churn exists in the encoded dataframe
+root - INFO - Successful split of selected features in dataset
+root - INFO - Two models generated predections
+root - INFO - Classification report exists at data\classification_report_lr.png and not empty
+root - INFO - Classification report exists at data\classification_report_rf.png and not empty
+root - INFO - Features importance plot exists at data\feture_importance_plot.png and not empty
